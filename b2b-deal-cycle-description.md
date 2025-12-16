@@ -231,18 +231,4 @@ SELLER A                          SELLER B
    └──► [Negotiate] ──► [Counter-Offer Cycle]
 ```
 
----
-
-## Questions for Project Owner Confirmation
-
-1. Should there be a maximum number of active deals per seller?
-2. Is the negotiation feature required for MVP or Phase 2?
-3. What payment methods should be supported?
-4. Should deals auto-expire at end date or require manual closure?
-5. Is inventory tracking needed (auto-reduce quantity on approval)?
-6. Should there be deal categories or tags for filtering?
-7. Is seller verification required before creating deals?
-
----
-
 *Document prepared for project owner review and confirmation.*
